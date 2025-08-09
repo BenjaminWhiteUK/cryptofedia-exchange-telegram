@@ -627,8 +627,8 @@ Benjamin White is the visionary founder and CEO of CryptoFedia, bringing years o
 ### **🌐 Join Our Community**
 
 [![🤖 Official Bot](https://img.shields.io/badge/🤖_Official_Bot-@CryptoFediaOfficialBot-FF6B35?style=for-the-badge&logo=telegram)](https://t.me/CryptoFediaOfficialBot)
-[![📢 News Channel](https://img.shields.io/badge/📢_News_Channel-@CryptoFedia-00D4AA?style=for-the-badge&logo=telegram)](#)
-[![💬 Support Chat](https://img.shields.io/badge/💬_Support_Chat-@CryptoFediaSupport-FFD700?style=for-the-badge&logo=telegram)](#)
+[![📢 News Channel](https://img.shields.io/badge/📢_News_Channel-@CryptoFedia_Official-00D4AA?style=for-the-badge&logo=telegram)](https://t.me/CryptoFedia_Official)
+[![💬 Support Chat](https://img.shields.io/badge/💬_Support_Chat-@CryptoFediaAdmin-FFD700?style=for-the-badge&logo=telegram)](https://t.me/CryptoFediaAdmin)
 
 </td>
 <td align="center">

@@ -103,10 +103,6 @@
 
 <!-- Animated Stats Bar -->
 <div align="center">
-  
-**⚡ LIVE SYSTEM STATUS ⚡**
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
 ### 🚀 **583 Million+ Sessions** • 🔒 **Military-Grade Security** • 🌐 **20+ Languages** • ⚡ **3000+ Routes**
 

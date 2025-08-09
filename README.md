@@ -77,7 +77,7 @@
 <!-- Referral Earnings Banner -->
 <div align="center">
   <br/>
-  <img src="earn.webp" alt="Earn from Every Connection - 1% USDT Rewards" width="800" />
+  <img src="earn.png" alt="Earn from Every Connection - 1% USDT Rewards" width="800" />
   
   <!-- Instant Earning Highlight -->
   <div style="background: linear-gradient(45deg, #0D1421, #1a2332); border: 2px solid #00FF88; border-radius: 10px; padding: 15px; margin: 20px 0;">
